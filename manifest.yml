@@ -1,5 +1,5 @@
 applications:
-- path: essentialsneeds-0.0.1-SNAPSHOT.war
+- path: ./target/essentialsneeds-0.0.1-SNAPSHOT.war
   memory: 256M
   instances: 1
   domain: au-syd.mybluemix.net
